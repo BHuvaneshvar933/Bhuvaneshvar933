@@ -41,7 +41,7 @@
 ### 🧠 LeetCode Progress
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Bhuvaneshvar933?theme=dark&font=Baloo+Bhai+2&ext=contest" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/c_Bhuvaneshvar_Reddy?theme=dark&font=Baloo+Bhai+2&ext=contest" alt="LeetCode Stats" />
 </p>
 
 ---
