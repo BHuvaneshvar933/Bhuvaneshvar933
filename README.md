@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm C Bhuvaneshvar Reddy 👋</h1>
 <p align="center">
-  <img src="https://i.imgur.com/5K3mtvr.gif" alt="Cyberpunk Banner" width="100%" />
+  <img src="https://i.imgur.com/5K3mtvr.gif" alt="Cyberpunk Banner" width="60%" />
 </p>
 
 
