@@ -10,7 +10,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F70000&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer;Android+Development+Enthusiast;MERN+Stack+Master;Freelance+Web+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F70000&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer;Android+Development+Enthusiast;MERN+Stack;Freelance+Web+Developer" alt="Typing SVG" />
 </p>
 
 <br>
