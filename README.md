@@ -6,7 +6,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&style=plastic)](https://portfolio-self-eight-47.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=plastic)](mailto:bhuvaneshvar.r.c@gmail.com)
 
-<img src="https://i.imgur.com/5K3mtvr.gif" alt="Cyberpunk Banner" width="100%" />
 
 </div>
 
