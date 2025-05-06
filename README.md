@@ -31,7 +31,7 @@ const bhuvaneshvar = {
   techStack: [
     "React.js", "Node.js", "MongoDB", "Express.js",
     "Tailwind CSS", "JavaScript", "HTML/CSS",
-    "Java", "DSA", "Bootstrap", "Firebase"
+    "Java", "DSA", "Bootstrap", "Firebase","TypeScript", "Next.js"
   ],
   projects: {
     completed: [
