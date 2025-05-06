@@ -1,11 +1,3 @@
-<h1 align="center">Hi there, I'm C Bhuvaneshvar Reddy 👋</h1>
-<p align="center">
-  <img src="https://i.imgur.com/5K3mtvr.gif" alt="Cyberpunk Banner" width="60%" />
-</p>
-
-
----
-
 <div align="center">💻 ABOUT ME 💻</div>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=500&lines=Full-Stack+Developer;MERN+Specialist;DSA+Enthusiast;Creative+Problem+Solver" alt="Typing SVG" />
@@ -75,54 +67,3 @@ javascriptconst skills = {
   <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </div>
-
----
-
-### 📫 Contact Me
-
-- 📧 bhuvaneshvar.r.c@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/c-bhuvaneshvar-reddy-01b985279/) | [Portfolio](https://portfolio-self-eight-47.vercel.app)
-
----
-
-### ⚡ GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhuvaneshvar933&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvaneshvar933&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-### 🧠 LeetCode Progress
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/c_Bhuvaneshvar_Reddy?theme=dark&font=Baloo+Bhai+2&ext=contest" alt="LeetCode Stats" />
-</p>
-
----
-
-### 📌 Pinned Projects
-
-[![Event Management](https://github-readme-stats.vercel.app/api/pin/?username=BHuvaneshvar933&repo=Event-Management&theme=radical)](https://github.com/BHuvaneshvar933/Event-Management)
-[![Gym Store](https://github-readme-stats.vercel.app/api/pin/?username=BHuvaneshvar933&repo=gymstore3&theme=radical)](https://github.com/BHuvaneshvar933/gymstore3)
-[![Airbnb Clone](https://github-readme-stats.vercel.app/api/pin/?username=BHuvaneshvar933&repo=AirBnb_clone&theme=radical)](https://github.com/BHuvaneshvar933/AirBnb_clone)
-[![Recipe Sauce](https://github-readme-stats.vercel.app/api/pin/?username=BHuvaneshvar933&repo=RecipeSauce&theme=radical)](https://github.com/BHuvaneshvar933/RecipeSauce)
-
----
-
-### 🧾 Certificates & Achievements
-
-- ✅ Completed: *Responsive Web Design - freeCodeCamp*
-- ✅ JavaScript Bootcamp - Udemy
-- ✅ The Joy of Computing in Python - NPTEL
-- ✅ React.js Course - Codecademy
-- 🏅 Selected for: **Ad Astra Club**
-- 💻 Participated in: **Cyberforge Hackathon**, **Blockchain & AI Hackathons**
-
----
-
-### ❤️ Let's Build Something Awesome Together!
-
-> _"Code. Learn. Build. Repeat."_ 🚀
