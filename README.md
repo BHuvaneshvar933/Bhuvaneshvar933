@@ -1,69 +1,141 @@
-<div align="center">💻 ABOUT ME 💻</div>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=500&lines=Full-Stack+Developer;MERN+Specialist;DSA+Enthusiast;Creative+Problem+Solver" alt="Typing SVG" />
+  
+# 👨‍💻 C BHUVANESHVAR REDDY
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/c-bhuvaneshvar-reddy-01b985279/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-self-eight-47.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhuvaneshvar.r.c@gmail.com)
+
+<img src="https://i.imgur.com/5K3mtvr.gif" alt="Cyberpunk Banner" width="80%" />
+
 </div>
-<table align="center" border="0">
-  <tr>
-    <td width="60%" align="left">
-      <h3>🚀 <b>Professional Summary</b></h3>
-      <blockquote>
-        Passionate full-stack developer with a knack for creating elegant solutions. Currently a 2nd Year CSE student at CIT Bengaluru with hands-on experience in web development, freelancing, and open-source contributions.
-      </blockquote>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvaneshvar933&layout=compact&theme=radical" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-🔥 Technical Expertise
-javascriptconst skills = {
-  frontend: ["React.js", "HTML5", "CSS3", "JavaScript", "Tailwind CSS", "Bootstrap"],
-  backend: ["Node.js", "Express.js", "MongoDB", "Firebase"],
-  languages: ["JavaScript", "Java", "Python"],
-  tools: ["Git", "VS Code", "Postman", "Firebase"],
-  concepts: ["RESTful APIs", "Database Design", "Authentication", "State Management"]
+
+<br>
+
+## 🚀 About Me
+
+```javascript
+const bhuvaneshvar = {
+  education: "2nd Year CSE Student | 4th Sem @ CIT Bengaluru",
+  role: "Full-Stack Developer | Android Development Enthusiast",
+  techStack: [
+    "React.js", "Node.js", "MongoDB", "Express.js",
+    "Tailwind CSS", "JavaScript", "HTML/CSS",
+    "Java", "DSA", "Bootstrap", "Firebase"
+  ],
+  projects: {
+    completed: [
+      "Chat Application", 
+      "Automated Event Management System", 
+      "Ad Astra Event Pages", 
+      "Portfolio", 
+      "Freelance Web Projects"
+    ],
+    current_focus: [
+      "MERN Stack Mastery", 
+      "Backend Development", 
+      "Clean Architecture", 
+      "App Development"
+    ]
+  },
+  freelance: "Delivered 5+ projects (E-Commerce, Portfolio, Blog) | Up to ₹3500 per project"
 };
-🛠️ Project Showcase
-<table>
+```
+
+<br>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+</div>
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhuvaneshvar933&theme=tokyonight" alt="GitHub Streak" height="180em" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhuvaneshvar933&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvaneshvar933&layout=compact&theme=tokyonight" alt="Top Languages" height="180em" />
+</div>
+
+<br>
+
+## 🧠 LeetCode Progress
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/c_Bhuvaneshvar_Reddy?theme=dark&font=Baloo+Bhai+2&ext=contest" alt="LeetCode Stats" />
+</div>
+
+<br>
+
+## 🏆 Featured Projects
+
+<div align="center">
+  
+[![Event Management](https://github-readme-stats.vercel.app/api/pin/?username=BHuvaneshvar933&repo=Event-Management&theme=tokyonight)](https://github.com/BHuvaneshvar933/Event-Management) 
+[![Gym Store](https://github-readme-stats.vercel.app/api/pin/?username=BHuvaneshvar933&repo=gymstore3&theme=tokyonight)](https://github.com/BHuvaneshvar933/gymstore3)
+  
+[![Airbnb Clone](https://github-readme-stats.vercel.app/api/pin/?username=BHuvaneshvar933&repo=AirBnb_clone&theme=tokyonight)](https://github.com/BHuvaneshvar933/AirBnb_clone) 
+[![Recipe Sauce](https://github-readme-stats.vercel.app/api/pin/?username=BHuvaneshvar933&repo=RecipeSauce&theme=tokyonight)](https://github.com/BHuvaneshvar933/RecipeSauce)
+
+</div>
+
+<br>
+
+## 🎓 Certificates & Achievements
+
+<table align="center">
   <tr>
-    <td align="center"><img src="https://img.shields.io/badge/-Chat%20Application-4C75E8?style=for-the-badge" alt="Chat App"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/-Event%20Management%20System-E34F26?style=for-the-badge" alt="Event Management"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/-Ad%20Astra%20Event%20Pages-7044A3?style=for-the-badge" alt="Ad Astra"/></td>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/certificate.png" width="30px"/></td>
+    <td>Responsive Web Design - freeCodeCamp</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/trophy.png" width="30px"/></td>
+    <td>Selected for <b>Ad Astra Club</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://img.shields.io/badge/-Portfolio-20BEFF?style=for-the-badge" alt="Portfolio"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/-Freelance%20Web%20Projects-00C58E?style=for-the-badge" alt="Freelance"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/-More%20Coming%20Soon-FF6C37?style=for-the-badge" alt="More Projects"/></td>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/certificate.png" width="30px"/></td>
+    <td>JavaScript Bootcamp - Udemy</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/laptop-coding.png" width="30px"/></td>
+    <td>Participated in <b>Cyberforge Hackathon</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/certificate.png" width="30px"/></td>
+    <td>The Joy of Computing in Python - NPTEL</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/blockchain-technology.png" width="30px"/></td>
+    <td>Participated in <b>Blockchain & AI Hackathons</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/certificate.png" width="30px"/></td>
+    <td>React.js Course - Codecademy</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/code.png" width="30px"/></td>
+    <td>Continuous learner and problem solver</td>
   </tr>
 </table>
-🚀 Current Focus
+
+<br>
+
 <div align="center">
-  <img src="https://img.shields.io/badge/MERN%20Stack%20Mastery-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="MERN Stack"/>
-  <img src="https://img.shields.io/badge/Backend%20Development-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Backend"/>
-  <img src="https://img.shields.io/badge/Clean%20Architecture-1572B6?style=for-the-badge&logo=clean-code&logoColor=white" alt="Clean Architecture"/>
-  <img src="https://img.shields.io/badge/App%20Development-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="App Development"/>
+  
+## 💬 Let's Connect & Build Something Amazing Together!
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;MERN+Enthusiast;Problem+Solver;Code.+Learn.+Build.+Repeat." alt="Typing SVG" />
+
 </div>
-💼 Freelancing Experience
+
 <div align="center">
-  <table>
-    <tr>
-      <td><b>Projects Delivered:</b></td>
-      <td>5+</td>
-    </tr>
-    <tr>
-      <td><b>Project Types:</b></td>
-      <td>E-Commerce, Portfolio, Blog</td>
-    </tr>
-    <tr>
-      <td><b>Pricing:</b></td>
-      <td>Up to ₹3500 for full builds</td>
-    </tr>
-  </table>
-</div>
-🤝 Let's Connect & Collaborate
-<div align="center">
-  <p><i>Open to collaborations on cool and impactful projects that challenge my skills and creativity!</i></p>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Bhuvaneshvar933&style=flat-square&color=blueviolet" alt="Profile views"/>
 </div>
