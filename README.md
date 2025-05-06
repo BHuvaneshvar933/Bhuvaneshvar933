@@ -113,7 +113,7 @@ const bhuvaneshvar = {
 
 <br>
 
-## <img src="https://media.giphy.com/media/fxI1G5PNC5esyNlIUs/giphy.gif" width="50"> Certificates & Achievements
+##  Certificates & Achievements
 
 <div align="center">
   <table>
