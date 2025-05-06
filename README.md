@@ -20,7 +20,10 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </div>
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+</div>
 
 ```js
 const bhuvaneshvar = {
@@ -85,13 +88,7 @@ const bhuvaneshvar = {
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhuvaneshvar933&theme=radical" alt="Bhuvaneshvar933's streak" />
-</p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bhuvaneshvar933&theme=radical&row=1&column=7" alt="Bhuvaneshvar933's trophies" />
-</p>
 
 <br>
 
@@ -156,9 +153,6 @@ const bhuvaneshvar = {
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=30&pause=1000&color=F724C9&center=true&vCenter=true&repeat=false&width=500&height=60&lines=Code.+Learn.+Build.+Repeat." alt="Typing SVG" />
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
 
 <img src="https://komarev.com/ghpvc/?username=Bhuvaneshvar933&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile views"/>
 
