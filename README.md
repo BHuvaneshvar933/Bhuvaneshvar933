@@ -70,12 +70,9 @@ const bhuvaneshvar = {
   <a href="#"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /></a>
   <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /></a>
-<!-- Android / Kotlin -->
   <a href="#"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" /></a>
   <a href="#"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" /></a>
-
-  <!-- APIs / Networking -->
   <a href="#"><img src="https://img.shields.io/badge/REST_API-0052CC?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" /></a>
   <a href="#"><img src="https://img.shields.io/badge/WebSockets-35495E?style=for-the-badge&logo=websockets&logoColor=white" alt="WebSockets" /></a>
   <a href="#"><img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" /></a>
