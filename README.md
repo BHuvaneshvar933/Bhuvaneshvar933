@@ -167,7 +167,7 @@ const bhuvaneshvar = {
 <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=30&pause=1000&color=F724C9&center=true&vCenter=true&repeat=false&width=500&height=60&lines=Code.+Learn.+Build.+Repeat." alt="Typing SVG" />
 
 
-<img src="https://komarev.com/ghpvc/?username=Bhuvaneshvar933&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile views"/>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
