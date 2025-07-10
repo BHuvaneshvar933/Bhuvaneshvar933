@@ -27,11 +27,11 @@
 ```js
 const bhuvaneshvar = {
   education: "2nd Year CSE Student | 4th Sem @ CIT Bengaluru",
-  role: "Full-Stack Developer | Android Development Enthusiast",
+  role: "Full-Stack Developer | Android Developer",
   techStack: [
     "React.js", "Node.js", "MongoDB", "Express.js",
     "Tailwind CSS", "JavaScript", "HTML/CSS",
-    "Java", "DSA", "Bootstrap", "Firebase","TypeScript", "Next.js"
+    "Java", "DSA", "Bootstrap", "Firebase","TypeScript", "Next.js","kotlin","SQLite","Android SDK"
   ],
   projects: {
     completed: [
