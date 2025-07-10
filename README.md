@@ -105,12 +105,16 @@ const bhuvaneshvar = {
 ## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Featured Projects
 
 <div align="center">
-
+<h3>Web Development</h3>
 [![Event Management](https://github-readme-stats.vercel.app/api/pin/?username=BHuvaneshvar933&repo=Event-Management&theme=radical&hide_border=true)](https://github.com/BHuvaneshvar933/Event-Management) 
 [![Gym Store](https://github-readme-stats.vercel.app/api/pin/?username=BHuvaneshvar933&repo=gymstore3&theme=radical&hide_border=true)](https://github.com/BHuvaneshvar933/gymstore3)
-
+[![E-Commerce](https://github-readme-stats.vercel.app/api/pin/?username=BHuvaneshvar933&repo=E-commerce&theme=radical&hide_border=true)](https://github.com/BHuvaneshvar933/E-commerce)
 [![Airbnb Clone](https://github-readme-stats.vercel.app/api/pin/?username=BHuvaneshvar933&repo=AirBnb_clone&theme=radical&hide_border=true)](https://github.com/BHuvaneshvar933/AirBnb_clone) 
 [![Recipe Sauce](https://github-readme-stats.vercel.app/api/pin/?username=BHuvaneshvar933&repo=RecipeSauce&theme=radical&hide_border=true)](https://github.com/BHuvaneshvar933/RecipeSauce)
+
+<h3>App development</h3>
+[![Tic-Tac-Toe](https://github-readme-stats.vercel.app/api/pin/?username=BHuvaneshvar933&repo=tic-tac-toe-kotlin&theme=radical&hide_border=true)](https://github.com/BHuvaneshvar933/tic-tac-toe-kotlin)
+[![To-do](https://github-readme-stats.vercel.app/api/pin/?username=BHuvaneshvar933&repo=to-do-app&theme=radical&hide_border=true)](https://github.com/BHuvaneshvar933/to-do-app)
 
 </div>
 
