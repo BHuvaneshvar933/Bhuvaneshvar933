@@ -2,7 +2,7 @@
 
 ## Full-Stack Developer | SDE-1 Aspirant
 
-📍 Bengaluru, India
+Bengaluru, India
 📧 [bhuvaneshvar.r.c@gmail.com](mailto:bhuvaneshvar.r.c@gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/c-bhuvaneshvar-reddy-01b985279/)
 🌐 [Portfolio](https://portfolio-self-eight-47.vercel.app)
