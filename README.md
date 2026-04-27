@@ -1,5 +1,5 @@
-# C Bhuvaneshvar Reddy
-## Backend Engineer | AI Integration Specialist
+# C Bhuvaneshvar Reddy  
+## Backend Engineer
 
 📍 Bengaluru, India  
 📧 bhuvaneshvar.r.c@gmail.com  
@@ -7,88 +7,84 @@
 
 ---
 
-## 👨‍💻 About
+## About
 
-Backend engineer specializing in **scalable systems with AI integration**. Building production-grade applications using **MERN + Spring Boot** with **LLM APIs, real-time architecture, and offline-first design**.
+Backend engineer focused on building scalable systems with practical exposure to AI integration. Experienced in developing production-ready applications using MERN and Spring Boot, with hands-on work in real-time systems and offline-first architectures.
 
-**Current Focus:** System design, DSA (195+ problems), and AI integration patterns (RAG, vector databases)
-
-**Looking for:** Backend Engineer / SDE-1 roles | AI-integrated systems | Full-stack (backend-heavy)
+Interested in backend-heavy roles where system design, performance, and reliability are critical. Exploring AI integration patterns such as LLM APIs and Retrieval-Augmented Generation (RAG).
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Backend:**  
-Node.js · Express.js · Spring Boot · REST APIs · WebSockets · MongoDB · JWT Auth
+Node.js · Express.js · Spring Boot · REST APIs · WebSockets · MongoDB · JWT Authentication  
 
-**AI Integration:**  
-OpenAI API · Google Gemini · Prompt Engineering · RAG (learning) · LLM Integration
+**AI (Learning & Applied):**  
+OpenAI API · Google Gemini · Prompt Engineering · RAG (Learning) · LLM Integration  
 
 **Frontend:**  
-React.js · Next.js · Tailwind CSS · PWA · Service Workers
+React.js · Next.js · Tailwind CSS · Progressive Web Apps · Service Workers  
 
 **DevOps & Tools:**  
-Git · Docker (basic) · Railway · Vercel · MongoDB Atlas
+Git · Docker (Basic) · Railway · Vercel · MongoDB Atlas  
 
 **Languages:**  
-JavaScript · TypeScript · Java · Python (learning)
+JavaScript · TypeScript · Java · Python (Learning)
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🔥 ProjectForge — Real-Time Collaboration Platform
+### ProjectForge — Real-Time Collaboration Platform  
 **Tech:** MERN Stack, Socket.io, MongoDB Transactions, Jaccard Algorithm  
 **Live:** [Demo](link) | **Code:** [GitHub](link)
 
-**What it does:**
-- Student project collaboration with **intelligent skill-based team matching**
-- **Real-time chat** with WebSocket architecture
-- **Transaction-safe team formation** preventing race conditions
-- Task management with Kanban boards
+**Description:**
+- Platform for student project collaboration with skill-based team matching  
+- Real-time communication using WebSocket architecture  
+- Task management with Kanban-style workflows  
 
 **Technical Highlights:**
-- Handles **150+ concurrent WebSocket connections** with <180ms average latency
-- **Jaccard similarity algorithm** for skill matching (processes 100 profiles in <500ms)
-- **MongoDB transactions** ensuring data consistency under concurrent load
-- Built-in analytics dashboard for progress tracking
+- Handles 150+ concurrent WebSocket connections with <180ms latency  
+- Jaccard similarity algorithm processes 100 profiles in under 500ms  
+- MongoDB transactions ensure consistency under concurrent operations  
+- Includes analytics dashboard for tracking project progress  
 
-**My Role:** Full-stack development, real-time architecture, algorithm design
+**Role:** Full-stack development, real-time architecture, algorithm design  
 
 ---
 
-### 💊 Capsule — Productivity Tracking PWA
+### Capsule — Productivity Tracking PWA  
 **Tech:** React, Vite, Spring Boot, MongoDB, PWA, OpenAI/Gemini APIs  
 **Live:** [Demo](link) | **Code:** [GitHub](link)
 
-**What it does:**
-- All-in-one **productivity tracking hub** consolidating job search, tasks, habits, and focus time
-- **AI-powered resume analyzer** and interview question generator
-- **100% offline-capable** with service workers and local storage
-- Cross-platform PWA (Web, Android, iOS, Desktop)
+**Description:**
+- Productivity platform integrating tasks, habits, job tracking, and focus tools  
+- AI-powered resume analysis and interview question generation  
+- Cross-platform PWA with offline capabilities  
 
 **Technical Highlights:**
-- **Offline-first architecture** with service worker caching
-- **AI integration:** Resume analysis in <3s, intelligent interview questions
-- **Push notifications** with VAPID (99% delivery rate)
-- **Spring Boot backend** with MongoDB for persistence
-- **90-day activity heatmap** aggregating multiple data sources
+- Offline-first architecture using service workers  
+- AI features deliver responses within ~3 seconds  
+- Push notification system using VAPID  
+- Backend built with Spring Boot and MongoDB  
+- 90-day activity heatmap aggregating multiple data sources  
 
-**My Role:** Full-stack development, PWA implementation, AI integration, backend architecture
-
----
-
-### 💬 Real-Time Chat Application
-**Tech:** React, Node.js, Socket.io, MongoDB
-
-- WebSocket-based messaging with persistent storage
-- File sharing and online/offline status tracking
-- Built for scalability and low latency
+**Role:** Full-stack development, PWA implementation, AI integration, backend architecture  
 
 ---
 
-## 📊 GitHub Stats
+### Real-Time Chat Application  
+**Tech:** React, Node.js, Socket.io, MongoDB  
+
+- WebSocket-based messaging with persistent storage  
+- File sharing and online/offline status tracking  
+- Designed for scalability and low latency  
+
+---
+
+## GitHub Stats
 
 ![Bhuvan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
@@ -96,35 +92,37 @@ JavaScript · TypeScript · Java · Python (learning)
 
 ---
 
-## 🎯 What I'm Working On
+## What I'm Working On
 
-- 🧠 **DSA Practice:** 195+ problems solved (target: 300)
-- 🤖 **AI Deep Dive:** Learning RAG patterns and vector databases
-- 📈 **System Design:** Practicing backend-heavy design problems
-- 🚀 **Current Build:** [AI Interview Simulator / RAG feature for Capsule]
-
----
-
-## 🏆 Competitive Edge
-
-✅ **Multi-stack capability:** MERN + Spring Boot (versatile)  
-✅ **Real-time systems:** WebSocket architecture, concurrent handling  
-✅ **AI integration:** Practical LLM usage, not just theory  
-✅ **Production thinking:** Offline support, transactions, metrics  
-✅ **Backend depth:** System design, scalability, data consistency
+- DSA practice (195+ problems solved)  
+- Learning AI integration patterns such as RAG and vector databases  
+- Practicing backend system design problems  
+- Building AI Interview Simulator / RAG feature for Capsule  
 
 ---
 
-## 📫 Let's Connect
+## Competitive Edge
+
+- Multi-stack capability: MERN + Spring Boot  
+- Experience with real-time systems and concurrent handling  
+- Practical exposure to AI integration  
+- Focus on production-ready systems (offline support, transactions, metrics)  
+- Strong backend fundamentals and system design focus  
+
+---
+
+## Contact
 
 **Open to:**
-- Backend Engineer / SDE-1 positions
-- AI-integrated system development
-- Technical collaborations
-- Freelance backend projects
+- Backend Engineer / SDE-1 roles  
+- AI-integrated system development opportunities  
+- Technical collaborations  
+- Freelance backend projects  
 
-**Best way to reach me:** [Email](mailto:bhuvaneshvar.r.c@gmail.com) | [LinkedIn](https://www.linkedin.com/in/c-bhuvaneshvar-reddy-01b985279/)
+**Best way to reach:**  
+Email: bhuvaneshvar.r.c@gmail.com  
+LinkedIn: https://www.linkedin.com/in/c-bhuvaneshvar-reddy-01b985279/  
 
 ---
 
-*Building systems that scale, integrating AI that works.*
+Building systems that scale with a focus on performance and reliability.
