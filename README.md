@@ -37,8 +37,8 @@ JavaScript · TypeScript · Java · Python
 ## Featured Projects
 
 ### ProjectForge — Real-Time Collaboration Platform  
-**Tech:** MERN Stack, Socket.io, MongoDB Transactions, Jaccard Algorithm
-**Code:** [GitHub](([link](https://github.com/BHuvaneshvar933/ProjectForge)))
+**Tech:** MERN Stack, Socket.io, MongoDB Transactions, Jaccard Algorithm  
+**Code:** [GitHub](https://github.com/BHuvaneshvar933/ProjectForge)
 
 **Description:**
 - Platform for student project collaboration with skill-based team matching  
@@ -57,7 +57,7 @@ JavaScript · TypeScript · Java · Python
 
 ### Capsule — Productivity Tracking PWA  
 **Tech:** React, Vite, Spring Boot, MongoDB, PWA, OpenAI/Gemini APIs  
-**Live:** [Demo]([link](https://interview-tracker-smoky.vercel.app/)) | **Code:** [GitHub]([link](https://github.com/BHuvaneshvar933/Capsule))
+**Live:** [Demo](https://interview-tracker-smoky.vercel.app/) | **Code:** [GitHub](https://github.com/BHuvaneshvar933/Capsule)
 
 **Description:**
 - Productivity platform integrating tasks, habits, job tracking, and focus tools  
