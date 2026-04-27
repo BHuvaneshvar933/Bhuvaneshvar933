@@ -86,9 +86,9 @@ JavaScript · TypeScript · Java · Python
 
 ## GitHub Stats
 
-![Bhuvan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Bhuvan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhuvaneshvar933&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvaneshvar933&layout=compact&theme=radical)
 
 ---
 
