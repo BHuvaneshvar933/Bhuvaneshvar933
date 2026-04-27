@@ -30,15 +30,15 @@ React.js · Next.js · Tailwind CSS · Progressive Web Apps · Service Workers
 Git · Docker (Basic) · Railway · Vercel · MongoDB Atlas  
 
 **Languages:**  
-JavaScript · TypeScript · Java · Python (Learning)
+JavaScript · TypeScript · Java · Python
 
 ---
 
 ## Featured Projects
 
 ### ProjectForge — Real-Time Collaboration Platform  
-**Tech:** MERN Stack, Socket.io, MongoDB Transactions, Jaccard Algorithm  
-**Live:** [Demo](link) | **Code:** [GitHub](link)
+**Tech:** MERN Stack, Socket.io, MongoDB Transactions, Jaccard Algorithm
+**Code:** [GitHub](([link](https://github.com/BHuvaneshvar933/ProjectForge)))
 
 **Description:**
 - Platform for student project collaboration with skill-based team matching  
@@ -57,7 +57,7 @@ JavaScript · TypeScript · Java · Python (Learning)
 
 ### Capsule — Productivity Tracking PWA  
 **Tech:** React, Vite, Spring Boot, MongoDB, PWA, OpenAI/Gemini APIs  
-**Live:** [Demo](link) | **Code:** [GitHub](link)
+**Live:** [Demo]([link](https://interview-tracker-smoky.vercel.app/)) | **Code:** [GitHub]([link](https://github.com/BHuvaneshvar933/Capsule))
 
 **Description:**
 - Productivity platform integrating tasks, habits, job tracking, and focus tools  
