@@ -1,128 +1,86 @@
-# C Bhuvaneshvar Reddy  
-## Backend Engineer
+# Hi, I'm Bhuvaneshvar Reddy 
 
-📍 Bengaluru, India  
-📧 bhuvaneshvar.r.c@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/c-bhuvaneshvar-reddy-01b985279/) | [Portfolio](https://portfolio-self-eight-47.vercel.app)
+### Backend Developer | Full-Stack Engineer | CSE Student
 
----
-
-## About
-
-Backend engineer focused on building scalable systems with practical exposure to AI integration. Experienced in developing production-ready applications using MERN and Spring Boot, with hands-on work in real-time systems and offline-first architectures.
-
-Interested in backend-heavy roles where system design, performance, and reliability are critical. Exploring AI integration patterns such as LLM APIs and Retrieval-Augmented Generation (RAG).
+Passionate about backend systems, real-time applications, AI integration, and building software that solves real-world problems.
 
 ---
 
-## Tech Stack
+##  Tech Stack
 
-**Backend:**  
-Node.js · Express.js · Spring Boot · REST APIs · WebSockets · MongoDB · JWT Authentication  
+### Languages
 
-**AI (Learning & Applied):**  
-OpenAI API · Google Gemini · Prompt Engineering · RAG (Learning) · LLM Integration  
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge\&logo=typescript)
+![Java](https://img.shields.io/badge/Java-black?style=for-the-badge\&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge\&logo=python)
 
-**Frontend:**  
-React.js · Next.js · Tailwind CSS · Progressive Web Apps · Service Workers  
+### Frontend
 
-**DevOps & Tools:**  
-Git · Docker (Basic) · Railway · Vercel · MongoDB Atlas  
+![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge\&logo=tailwindcss)
 
-**Languages:**  
-JavaScript · TypeScript · Java · Python
+### Backend
 
----
-
-## Featured Projects
-
-### ProjectForge — Real-Time Collaboration Platform  
-**Tech:** MERN Stack, Socket.io, MongoDB Transactions, Jaccard Algorithm  
-**Code:** [GitHub](https://github.com/BHuvaneshvar933/ProjectForge)
-
-**Description:**
-- Platform for student project collaboration with skill-based team matching  
-- Real-time communication using WebSocket architecture  
-- Task management with Kanban-style workflows  
-
-**Technical Highlights:**
-- Handles 150+ concurrent WebSocket connections with <180ms latency  
-- Jaccard similarity algorithm processes 100 profiles in under 500ms  
-- MongoDB transactions ensure consistency under concurrent operations  
-- Includes analytics dashboard for tracking project progress  
-
-**Role:** Full-stack development, real-time architecture, algorithm design  
-
----
-
-### Capsule — Productivity Tracking PWA  
-**Tech:** React, Vite, Spring Boot, MongoDB, PWA, OpenAI/Gemini APIs  
-**Live:** [Demo](https://interview-tracker-smoky.vercel.app/) | **Code:** [GitHub](https://github.com/BHuvaneshvar933/Capsule)
-
-**Description:**
-- Productivity platform integrating tasks, habits, job tracking, and focus tools  
-- AI-powered resume analysis and interview question generation  
-- Cross-platform PWA with offline capabilities  
-
-**Technical Highlights:**
-- Offline-first architecture using service workers  
-- AI features deliver responses within ~3 seconds  
-- Push notification system using VAPID  
-- Backend built with Spring Boot and MongoDB  
-- 90-day activity heatmap aggregating multiple data sources  
-
-**Role:** Full-stack development, PWA implementation, AI integration, backend architecture  
-
----
-
-### Real-Time Chat Application  
-**Tech:** React, Node.js, Socket.io, MongoDB  
-
-- WebSocket-based messaging with persistent storage  
-- File sharing and online/offline status tracking  
-- Designed for scalability and low latency  
+![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge\&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-black?style=for-the-badge\&logo=springboot)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge\&logo=mongodb)
 
 ---
 
 ## GitHub Stats
 
-![Bhuvan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhuvaneshvar933&show_icons=true&theme=radical)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BHuvaneshvar933&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHuvaneshvar933&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvaneshvar933&layout=compact&theme=radical)
-
----
-
-## What I'm Working On
-
-- DSA practice (195+ problems solved)  
-- Learning AI integration patterns such as RAG and vector databases  
-- Practicing backend system design problems  
-- Building AI Interview Simulator / RAG feature for Capsule  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=BHuvaneshvar933&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## Competitive Edge
+##  Featured Projects
 
-- Multi-stack capability: MERN + Spring Boot  
-- Experience with real-time systems and concurrent handling  
-- Practical exposure to AI integration  
-- Focus on production-ready systems (offline support, transactions, metrics)  
-- Strong backend fundamentals and system design focus  
+### ProjectForge
 
----
+Real-time collaboration platform for students and developers featuring project matchmaking, team formation, task management, and Socket.io powered communication.
 
-## Contact
+**Tech:** React • Node.js • Express • MongoDB • Socket.io
 
-**Open to:**
-- Backend Engineer / SDE-1 roles  
-- AI-integrated system development opportunities  
-- Technical collaborations  
-- Freelance backend projects  
+### Capsule
 
-**Best way to reach:**  
-Email: bhuvaneshvar.r.c@gmail.com  
-LinkedIn: https://www.linkedin.com/in/c-bhuvaneshvar-reddy-01b985279/  
+Productivity platform with AI-powered resume analysis, interview preparation, habit tracking, and offline-first PWA architecture.
+
+**Tech:** React • Spring Boot • MongoDB • OpenAI • Gemini
+
+### Event Management System
+
+QR-based event registration and attendance platform with role-based access control and real-time tracking.
+
+**Tech:** React • Node.js • Express • MongoDB
 
 ---
 
-Building systems that scale with a focus on performance and reliability.
+## Currently Learning
+
+* System Design
+* RAG Applications
+* Vector Databases
+* Advanced Backend Engineering
+* Scalable Distributed Systems
+
+---
+
+## Connect With Me
+
+* 🌐 Portfolio: https://portfolio-self-eight-47.vercel.app
+* 💼 LinkedIn: https://linkedin.com/in/c-bhuvaneshvar-reddy-01b985279
+* 📧 Email: [bhuvaneshvar.r.c@gmail.com](mailto:bhuvaneshvar.r.c@gmail.com)
+
+---
+
+> Building scalable applications, learning continuously, and focusing on strong engineering fundamentals.
