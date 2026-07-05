@@ -144,8 +144,8 @@ Full-stack event management platform with QR-based check-in and real-time regist
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BHuvaneshvar933&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHuvaneshvar933&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-mu-six-25.vercel.app/api?username=BHuvaneshvar933&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="httpsL//github-readme-stats-mu-six-25.vercel.app/api/top-langs/?username=BHuvaneshvar933&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
