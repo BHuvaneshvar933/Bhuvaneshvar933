@@ -193,7 +193,6 @@ Developed frontend features and contributed to event management and registration
 **Portfolio:** [portfolio-self-eight-47.vercel.app](https://portfolio-self-eight-47.vercel.app)  
 **LinkedIn:** [linkedin.com/in/c-bhuvaneshvar-reddy-01b985279](https://linkedin.com/in/c-bhuvaneshvar-reddy-01b985279)  
 **Email:** [bhuvaneshvar.r.c@gmail.com](mailto:bhuvaneshvar.r.c@gmail.com)  
-**GitHub:** [github.com/BHuvaneshvar933](https://github.com/BHuvaneshvar933)
 
 ---
 
