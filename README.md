@@ -149,7 +149,7 @@ Full-stack event management platform with QR-based check-in and real-time regist
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=BHuvaneshvar933&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=BHuvaneshvar933&theme=tokyonight&hide_border=true&cache_seconds=86400&v=3" />
 </p>
 
 
