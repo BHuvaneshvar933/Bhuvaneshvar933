@@ -71,7 +71,7 @@ Final year Computer Science student at Cambridge Institute of Technology (GPA: 9
 **System Design** — Real-time systems, scalability patterns, architecture design  
 **Object-Oriented Programming** — Design patterns, modular code, clean architecture  
 **Database Management Systems** — Schema design, optimization, transaction management  
-**Operating Systems** — Process management, memory allocation, concurrency  
+**Operating Systems** — Process management, memory allocation
 **Computer Networks** — REST APIs, WebSocket protocols, client-server architecture  
 
 ---
