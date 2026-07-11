@@ -8,7 +8,7 @@ Bengaluru, India | [bhuvaneshvar.r.c@gmail.com](mailto:bhuvaneshvar.r.c@gmail.co
 
 ## About
 
-Backend-focused engineer specializing in building scalable systems and practical AI integration. Experienced in building full-stack applications across multiple stacks (MERN, Spring Boot, TypeScript) with focus on real-time architecture, database optimization, and production-grade systems. Proficient in designing modular backends, implementing AI-powered features, and deploying applications to production.
+Backend-focused engineer specializing in building scalable systems and practical AI integration. Experienced in building full-stack applications across multiple stacks (MERN, Spring Boot, TypeScript) with focus on real-time architecture, database optimization, AI-powered features and production-grade systems. Experience includes WebSocket systems, RAG pipelines, workflow orchestration engines, VM-sandboxed execution, and offline-first PWA architecture.
 
 Final year Computer Science student at Cambridge Institute of Technology (GPA: 9.04). Actively seeking backend engineering roles that prioritize system reliability, scalability, and thoughtful architecture.
 
@@ -28,13 +28,15 @@ Final year Computer Science student at Cambridge Institute of Technology (GPA: 9
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=postman&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-FF0000?style=for-the-badge&logo=redis&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 
 ### Databases & Data
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=databricks&logoColor=white)
 
 ### Frontend & PWA
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -46,6 +48,8 @@ Final year Computer Science student at Cambridge Institute of Technology (GPA: 9
 ### AI & Machine Learning
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-FF6B35?style=for-the-badge&logo=groq&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-00A4EF?style=for-the-badge&logo=openai&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/ML%20Fundamentals-FF6B35?style=for-the-badge&logo=python&logoColor=white)
 
@@ -55,8 +59,8 @@ Final year Computer Science student at Cambridge Institute of Technology (GPA: 9
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
@@ -88,12 +92,6 @@ Real-time collaboration platform with intelligent project matching and team form
 - Analytics dashboard for project metrics
 - JWT authentication with protected routes
 
-**Technical Metrics:**
-- Handles 150+ concurrent WebSocket connections with <180ms latency
-- Jaccard algorithm processes 100+ profiles in <500ms
-- 99% message delivery rate with automatic reconnection
-- Transaction-safe team formation preventing duplicate member entries
-
 **Tech Stack:** MERN (React, Node.js, Express, MongoDB), Socket.io, JWT Auth, Vercel
 
 ---
@@ -105,37 +103,34 @@ Real-time collaboration platform with intelligent project matching and team form
 Cross-platform productivity platform integrating job tracking, task management, habits, and AI-powered features. Demonstrates offline-first PWA architecture and practical LLM integration.
 
 **Key Features:**
-- AI-powered resume analyzer and interview question generator
-- 100% offline capability with service worker caching and local sync
-- Push notifications using VAPID protocol
-- 90-day activity heatmap aggregating multiple data sources
-- Cross-platform installation (Web, Android, iOS, Desktop)
-- Spring Boot backend with MongoDB persistence
+- RAG pipeline using Groq and ChromaDB — chunks user data into embeddings, retrieves semantically relevant content on query
+- AI-powered resume analyzer (OpenAI API) and adaptive interview question generator (Google Gemini)
+- 100% offline capability via Workbox service workers with cache-first strategy and IndexedDB sync
+- Web Push notifications using VAPID protocol with background service worker delivery
+- Cross-platform PWA installation (Web, Android, iOS, Desktop)
+- Deployed on Oracle Cloud with Spring Boot backend
 
-**Technical Metrics:**
-- Sub-3 second AI response times (OpenAI/Gemini APIs)
-- 99% push notification delivery rate
-- Offline-first sync with conflict resolution
-- Spring Boot backend with MongoDB persistence
 
 **Tech Stack:** React + Vite, Spring Boot, MongoDB, OpenAI/Gemini APIs, PWA, Service Workers, Vercel/Railway
 
 ---
 
-### Automated Event Management System
+### NexusFlow — AI Workflow Orchestration Platform
 
-**Code:** [GitHub](https://github.com/BHuvaneshvar933/Event-Management)
+**Code:** [GitHub](https://github.com/BHuvaneshvar933/NexusFlow)
 
-Full-stack event management platform with QR-based check-in and real-time registration tracking. Demonstrates foundational full-stack development and role-based security patterns.
+Event-driven workflow automation platform built from scratch. Users define multi-step pipelines with triggers and actions that execute automatically — similar to Zapier but self-hosted and extensible.
 
 **Key Features:**
-- QR code generation and scanning for streamlined check-in
-- Role-based access control (Admin, Organizer, User)
-- Real-time attendance tracking and capacity management
-- RESTful API design with comprehensive error handling
-- JWT authentication for secure access
+- Async distributed execution engine via BullMQ and Redis queues with background workers and retry logic
+- Recursive variable interpolation engine parsing `{{steps.0.output}}` syntax across action configs at runtime
+- VM-sandboxed code execution using Node.js `vm` module for secure user-defined logic
+- Real-time execution logs streamed via Socket.io to live frontend dashboard
+- Multi-tenant RBAC with Workspace isolation and role middleware (admin/editor/viewer)
+- React Flow drag-and-drop canvas with custom node components and bezier edges
+- 6 native action types: Email, AI Analysis, HTTP Request, Custom Code, Database Save, Conditional Filter
 
-**Tech Stack:** React, Node.js, Express, MongoDB, JWT Auth
+**Tech Stack:** TypeScript, Node.js, Express, PostgreSQL, Redis, BullMQ, Socket.io, React Flow, OpenAI API
 
 ---
 
@@ -172,10 +167,10 @@ Developed frontend features and contributed to event management and registration
 - Programming, Data Structures and Algorithms using Python (NPTEL)
 
 **Current Focus:**
-- System Design: Backend-heavy design problems
-- AI Integration: RAG implementation and vector databases
-- Advanced Backend: Distributed systems and scalability patterns
-- LLM Applications: Production-grade AI feature development
+- DSA: 195+ problems solved, targeting 300+
+- System Design: Backend-heavy architecture problems
+- AI Engineering: RAG pipelines, vector databases, LLM production patterns
+- Python: FastAPI, document intelligence, AI backend systems
 
 
 
