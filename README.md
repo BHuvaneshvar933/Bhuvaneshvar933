@@ -98,7 +98,7 @@ Real-time collaboration platform with intelligent project matching and team form
 
 ### Capsule — Productivity Tracking PWA
 
-**Live:** [interview-tracker-smoky.vercel.app](https://capsulehq.tech) | **Code:** [GitHub](https://github.com/BHuvaneshvar933/Capsule)
+**Live:** [capsule.tech](https://capsulehq.tech) | **Code:** [GitHub](https://github.com/BHuvaneshvar933/Capsule)
 
 Cross-platform productivity platform integrating job tracking, task management, habits, and AI-powered features. Demonstrates offline-first PWA architecture and practical LLM integration.
 
