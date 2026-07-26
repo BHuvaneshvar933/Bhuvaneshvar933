@@ -1,188 +1,308 @@
-# C Bhuvaneshvar Reddy
+<div align="center">
 
-**Backend Engineer | Systems Design | AI Integration**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F1A,50:1A1A2E,100:0F0F1A&height=280&section=header&text=C%20BHUVANESHVAR%20REDDY&fontSize=48&fontColor=00F0FF&fontAlignY=42&animation=fadeIn&desc=BACKEND%20ENGINEER%20%E2%80%A2%20SYSTEMS%20DESIGN%20%E2%80%A2%20AI%20INTEGRATION&descAlignY=58&descSize=18&descColor=B24BF3" width="100%"/>
 
-Bengaluru, India | [bhuvaneshvar.r.c@gmail.com](mailto:bhuvaneshvar.r.c@gmail.com) | [Portfolio](https://portfolio-self-eight-47.vercel.app) | [LinkedIn](https://linkedin.com/in/c-bhuvaneshvar-reddy-01b985279)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=00F0FF&background=00000000&center=true&vCenter=true&width=750&lines=Building+Scalable+Backend+Systems;Distributed+Systems+Enthusiast;AI+%2B+RAG+Applications;Open+to+Backend+Engineer+Roles;Spring+Boot+%E2%80%A2+Node.js+%E2%80%A2+TypeScript" alt="Typing SVG"/>
 
----
+<br/>
 
-## About
+<a href="https://portfolio-self-eight-47.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-0F0F1A?style=for-the-badge&logo=vercel&logoColor=00F0FF" /></a>
+<a href="https://linkedin.com/in/c-bhuvaneshvar-reddy-01b985279"><img src="https://img.shields.io/badge/LINKEDIN-0F0F1A?style=for-the-badge&logo=linkedin&logoColor=00F0FF" /></a>
+<a href="mailto:bhuvaneshvar.r.c@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0F0F1A?style=for-the-badge&logo=gmail&logoColor=B24BF3" /></a>
+<a href="https://github.com/BHuvaneshvar933"><img src="https://img.shields.io/badge/GITHUB-0F0F1A?style=for-the-badge&logo=github&logoColor=FFFFFF" /></a>
 
-Backend-focused engineer specializing in building scalable systems and practical AI integration. Experienced in building full-stack applications across multiple stacks (MERN, Spring Boot, TypeScript) with focus on real-time architecture, database optimization, AI-powered features and production-grade systems. Experience includes WebSocket systems, RAG pipelines, workflow orchestration engines, VM-sandboxed execution, and offline-first PWA architecture.
+</div>
 
-Final year Computer Science student at Cambridge Institute of Technology (GPA: 9.04). Actively seeking backend engineering roles that prioritize system reliability, scalability, and thoughtful architecture.
+<br/>
 
----
+<div align="center">
 
-## Technical Skills
+![Divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-### Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+</div>
 
-### Backend & Real-Time
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![BullMQ](https://img.shields.io/badge/BullMQ-FF0000?style=for-the-badge&logo=redis&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+## 🖥️&nbsp; SYSTEM OVERVIEW
 
-### Databases & Data
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=databricks&logoColor=white)
+<div align="center">
 
-### Frontend & PWA
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
-![Service Workers](https://img.shields.io/badge/Service%20Workers-FF6D00?style=for-the-badge&logo=webassembly&logoColor=white)
+| 📍 Location | 🎓 Education | 🎯 Looking For |
+|:---:|:---:|:---:|
+| Bengaluru, India | Final Year CS · GPA 9.04 | Backend Engineer / SDE-1 |
 
-### AI & Machine Learning
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-FF6B35?style=for-the-badge&logo=groq&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-00A4EF?style=for-the-badge&logo=openai&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/ML%20Fundamentals-FF6B35?style=for-the-badge&logo=python&logoColor=white)
+| 🧠 Current Focus | 💻 Years Coding | ⚙️ Core Stack |
+|:---:|:---:|:---:|
+| AI-Integrated Backends | 3+ | Spring Boot · Node.js · TypeScript |
 
-### DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+</div>
 
----
+<br/>
 
-## Core CS Competencies
+## 📡&nbsp; ABOUT
 
-**Data Structures & Algorithms** — 195+ problems solved (targeting 300+)  
-**System Design** — Real-time systems, scalability patterns, architecture design  
-**Object-Oriented Programming** — Design patterns, modular code, clean architecture  
-**Database Management Systems** — Schema design, optimization, transaction management  
-**Operating Systems** — Process management, memory allocation
-**Computer Networks** — REST APIs, WebSocket protocols, client-server architecture  
+```yaml
+name: C Bhuvaneshvar Reddy
+role: Backend Engineer — AI Integration
+location: Bengaluru, India
 
----
+currently_building:
+  - TenderFit — AI tender-matching platform for MSMEs (GeM + CPPP)
 
-## Featured Projects
+currently_learning:
+  - Distributed systems & scalable architecture
+  - Advanced DSA (195+ problems solved)
+  - Production-grade RAG pipelines
 
-### ProjectForge — Real-Time Collaboration Platform
+interests:
+  - Real-time systems
+  - Backend architecture
+  - Practical LLM / AI integration
 
-**Live:** [project-forge-inky.vercel.app](https://project-forge-inky.vercel.app/projects) | **Code:** [GitHub](https://github.com/BHuvaneshvar933/ProjectForge)
+looking_for:
+  - Backend Engineer / SDE-1 roles
+  - Teams that value reliability and clean architecture
+```
 
-Real-time collaboration platform with intelligent project matching and team formation. Demonstrates advanced backend patterns including concurrent user handling, transaction safety, and algorithm implementation.
+<br/>
 
-**Key Features:**
-- Skill-based project matching using Jaccard Similarity algorithm
-- Real-time WebSocket chat with typing indicators and message persistence
-- MongoDB transactions ensuring data consistency under concurrent operations
-- Task management with role-based access control
-- Analytics dashboard for project metrics
-- JWT authentication with protected routes
+## 🧬&nbsp; TECH STACK
 
-**Tech Stack:** MERN (React, Node.js, Express, MongoDB), Socket.io, JWT Auth, Vercel
+<details open>
+<summary><b>Languages</b></summary>
+<br>
+<div align="center">
 
----
+![JavaScript](https://img.shields.io/badge/JavaScript-0F0F1A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0F0F1A?style=for-the-badge&logo=typescript&logoColor=00F0FF)
+![Java](https://img.shields.io/badge/Java-0F0F1A?style=for-the-badge&logo=openjdk&logoColor=B24BF3)
+![Python](https://img.shields.io/badge/Python-0F0F1A?style=for-the-badge&logo=python&logoColor=00F0FF)
+![SQL](https://img.shields.io/badge/SQL-0F0F1A?style=for-the-badge&logo=postgresql&logoColor=B24BF3)
 
-### Capsule — Productivity Tracking PWA
+</div>
+</details>
 
-**Live:** [capsule.tech](https://capsulehq.tech) | **Code:** [GitHub](https://github.com/BHuvaneshvar933/Capsule)
+<details open>
+<summary><b>Backend & Real-Time</b></summary>
+<br>
+<div align="center">
 
-Cross-platform productivity platform integrating job tracking, task management, habits, and AI-powered features. Demonstrates offline-first PWA architecture and practical LLM integration.
+![Node.js](https://img.shields.io/badge/Node.js-0F0F1A?style=for-the-badge&logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/Express.js-0F0F1A?style=for-the-badge&logo=express&logoColor=FFFFFF)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-0F0F1A?style=for-the-badge&logo=spring-boot&logoColor=6DB33F)
+![Socket.io](https://img.shields.io/badge/Socket.io-0F0F1A?style=for-the-badge&logo=socket.io&logoColor=00F0FF)
+![BullMQ](https://img.shields.io/badge/BullMQ-0F0F1A?style=for-the-badge&logo=redis&logoColor=B24BF3)
+![Redis](https://img.shields.io/badge/Redis-0F0F1A?style=for-the-badge&logo=redis&logoColor=DC382D)
+![JWT](https://img.shields.io/badge/JWT-0F0F1A?style=for-the-badge&logo=json-web-tokens&logoColor=FFFFFF)
 
-**Key Features:**
-- RAG pipeline using Groq and ChromaDB — chunks user data into embeddings, retrieves semantically relevant content on query
-- AI-powered resume analyzer (OpenAI API) and adaptive interview question generator (Google Gemini)
-- 100% offline capability via Workbox service workers with cache-first strategy and IndexedDB sync
-- Web Push notifications using VAPID protocol with background service worker delivery
-- Cross-platform PWA installation (Web, Android, iOS, Desktop)
-- Deployed on Oracle Cloud with Spring Boot backend
+</div>
+</details>
 
+<details open>
+<summary><b>Frontend & PWA</b></summary>
+<br>
+<div align="center">
 
-**Tech Stack:** React + Vite, Spring Boot, MongoDB, OpenAI/Gemini APIs, PWA, Service Workers, Vercel/Railway
+![React](https://img.shields.io/badge/React-0F0F1A?style=for-the-badge&logo=react&logoColor=00F0FF)
+![Next.js](https://img.shields.io/badge/Next.js-0F0F1A?style=for-the-badge&logo=next.js&logoColor=FFFFFF)
+![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-0F0F1A?style=for-the-badge&logo=tailwindcss&logoColor=00F0FF)
+![PWA](https://img.shields.io/badge/PWA-0F0F1A?style=for-the-badge&logo=pwa&logoColor=B24BF3)
 
----
+</div>
+</details>
 
-### NexusFlow — AI Workflow Orchestration Platform
+<details open>
+<summary><b>Databases</b></summary>
+<br>
+<div align="center">
 
-**Code:** [GitHub](https://github.com/BHuvaneshvar933/NexusFlow)
+![MongoDB](https://img.shields.io/badge/MongoDB-0F0F1A?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F0F1A?style=for-the-badge&logo=postgresql&logoColor=00F0FF)
+![MySQL](https://img.shields.io/badge/MySQL-0F0F1A?style=for-the-badge&logo=mysql&logoColor=00F0FF)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-0F0F1A?style=for-the-badge&logo=databricks&logoColor=FF6B35)
 
-Event-driven workflow automation platform built from scratch. Users define multi-step pipelines with triggers and actions that execute automatically — similar to Zapier but self-hosted and extensible.
+</div>
+</details>
 
-**Key Features:**
-- Async distributed execution engine via BullMQ and Redis queues with background workers and retry logic
-- Recursive variable interpolation engine parsing `{{steps.0.output}}` syntax across action configs at runtime
-- VM-sandboxed code execution using Node.js `vm` module for secure user-defined logic
-- Real-time execution logs streamed via Socket.io to live frontend dashboard
-- Multi-tenant RBAC with Workspace isolation and role middleware (admin/editor/viewer)
-- React Flow drag-and-drop canvas with custom node components and bezier edges
-- 6 native action types: Email, AI Analysis, HTTP Request, Custom Code, Database Save, Conditional Filter
+<details open>
+<summary><b>AI / ML</b></summary>
+<br>
+<div align="center">
 
-**Tech Stack:** TypeScript, Node.js, Express, PostgreSQL, Redis, BullMQ, Socket.io, React Flow, OpenAI API
+![OpenAI](https://img.shields.io/badge/OpenAI-0F0F1A?style=for-the-badge&logo=openai&logoColor=FFFFFF)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-0F0F1A?style=for-the-badge&logo=google&logoColor=4285F4)
+![Groq](https://img.shields.io/badge/Groq-0F0F1A?style=for-the-badge&logo=groq&logoColor=FF6B35)
+![RAG](https://img.shields.io/badge/RAG%20Pipelines-0F0F1A?style=for-the-badge&logo=openai&logoColor=B24BF3)
 
----
+</div>
+</details>
 
-## GitHub Analytics
+<details open>
+<summary><b>Cloud & DevOps</b></summary>
+<br>
+<div align="center">
 
-<h2 align="center">GitHub Stats</h2> <p align="center"> <img height="180em" src="https://github-readme-stats-mu-six-25.vercel.app/api?username=BHuvaneshvar933&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="180em" src="https://github-readme-stats-mu-six-25.vercel.app/api/top-langs/?username=BHuvaneshvar933&layout=compact&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=BHuvaneshvar933&theme=tokyonight&hide_border=true&cache_seconds=86400&v=3" /> </p>
+![Docker](https://img.shields.io/badge/Docker-0F0F1A?style=for-the-badge&logo=docker&logoColor=00F0FF)
+![Vercel](https://img.shields.io/badge/Vercel-0F0F1A?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
+![Railway](https://img.shields.io/badge/Railway-0F0F1A?style=for-the-badge&logo=railway&logoColor=FFFFFF)
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-0F0F1A?style=for-the-badge&logo=oracle&logoColor=F80000)
+![Linux](https://img.shields.io/badge/Linux-0F0F1A?style=for-the-badge&logo=linux&logoColor=FCC624)
 
-<p align="center">
-  <img src="./github-metrics.svg" />
-</p>
+</div>
+</details>
 
----
+<details open>
+<summary><b>Tools</b></summary>
+<br>
+<div align="center">
 
-## Professional Experience
+![Git](https://img.shields.io/badge/Git-0F0F1A?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0F0F1A?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![Postman](https://img.shields.io/badge/Postman-0F0F1A?style=for-the-badge&logo=postman&logoColor=FF6C37)
 
-**Programmer – Ad Astra Club**  
-Cambridge Institute of Technology, Bengaluru | 2024 – 2025
+</div>
+</details>
 
-Developed frontend features and contributed to event management and registration web applications used for club events. Gained hands-on experience in full-stack development and collaborative software engineering.
+<br/>
 
----
+## 🗂️&nbsp; FEATURED PROJECTS
 
-## Certifications & Learning
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-- The Complete JavaScript Course (Udemy)
-- Responsive Web Design (freeCodeCamp)
-- Joy of Computing Using Python (NPTEL)
-- Programming, Data Structures and Algorithms using Python (NPTEL)
+### 🔹 ProjectForge
+**Real-time collaboration & project-matching platform**
 
-**Current Focus:**
-- DSA: 195+ problems solved, targeting 300+
-- System Design: Backend-heavy architecture problems
-- AI Engineering: RAG pipelines, vector databases, LLM production patterns
-- Python: FastAPI, document intelligence, AI backend systems
+Skill-based matching using Jaccard Similarity, live WebSocket chat with typing indicators, MongoDB transactions for concurrency safety, JWT + role-based access control.
 
+`MERN` `Socket.io` `JWT`
 
+[→ GitHub](https://github.com/BHuvaneshvar933/ProjectForge) &nbsp;|&nbsp; [→ Live Demo](https://project-forge-inky.vercel.app/projects)
 
-## What I'm Looking For
+</td>
+<td width="50%" valign="top">
 
-- Backend Engineer / SDE-1 roles with focus on system reliability and scalability
-- Opportunities to work on production systems handling meaningful scale
-- Teams prioritizing code quality, architecture, and thoughtful engineering
-- Roles involving real-time systems and AI-integrated backend development
+### 🔹 Capsule
+**Offline-first AI productivity PWA**
 
----
+RAG pipeline (Groq + ChromaDB) over user data, AI resume analyzer, adaptive interview question generator, 100% offline via Workbox + IndexedDB sync, Web Push (VAPID).
 
-## Connect
+`React` `Spring Boot` `RAG` `PWA`
 
-**Portfolio:** [portfolio-self-eight-47.vercel.app](https://portfolio-self-eight-47.vercel.app)  
-**LinkedIn:** [linkedin.com/in/c-bhuvaneshvar-reddy-01b985279](https://linkedin.com/in/c-bhuvaneshvar-reddy-01b985279)  
-**Email:** [bhuvaneshvar.r.c@gmail.com](mailto:bhuvaneshvar.r.c@gmail.com)  
+[→ GitHub](https://github.com/BHuvaneshvar933/Capsule) &nbsp;|&nbsp; [→ Live Demo](https://capsulehq.tech)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Building scalable systems with focus on performance, reliability, and thoughtful engineering.**
+### 🔹 NexusFlow
+**Self-hosted workflow automation engine**
+
+Async distributed execution via BullMQ + Redis, VM-sandboxed custom code execution, real-time execution logs over Socket.io, multi-tenant RBAC with workspace isolation.
+
+`TypeScript` `PostgreSQL` `BullMQ` `React Flow`
+
+[→ GitHub](https://github.com/BHuvaneshvar933/NexusFlow)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔹 TenderFit
+**AI-powered government tender matching for MSMEs** *(in progress)*
+
+Supports GeM and CPPP portals from day one, dynamic company-profile matching, LLM-driven tender-fit scoring to help small businesses evaluate opportunities fast.
+
+`AI Integration` `MERN` `LLM Scoring`
+
+*Repository launching soon*
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📊&nbsp; GITHUB ANALYTICS
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats-mu-six-25.vercel.app/api?username=BHuvaneshvar933&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000&title_color=00F0FF&icon_color=B24BF3&text_color=CFCFCF" />
+<img height="165em" src="https://github-readme-stats-mu-six-25.vercel.app/api/top-langs/?username=BHuvaneshvar933&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F0FF&text_color=CFCFCF" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=BHuvaneshvar933&theme=tokyonight&hide_border=true&background=00000000&ring=00F0FF&fire=B24BF3&currStreakLabel=00F0FF" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BHuvaneshvar933&theme=tokyo-night&hide_border=true&bg_color=00000000&color=00F0FF&line=B24BF3&point=FFFFFF" width="90%" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=BHuvaneshvar933&theme=darkhub&no-frame=true&column=4&margin-w=8&margin-h=8" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=BHuvaneshvar933&label=PROFILE%20VIEWS&color=00F0FF&style=for-the-badge" />
+
+</div>
+
+<br/>
+
+## 🛰️&nbsp; TIMELINE
+
+<div align="center">
+
+| Year | Milestone |
+|:---:|:---|
+| **2023** | Started programming — fundamentals, DSA basics |
+| ↓ | |
+| **2024** | Built full-stack MERN + Spring Boot projects |
+| ↓ | |
+| **2025** | Real-time systems: WebSockets, transactions, distributed workflows |
+| ↓ | |
+| **2026** | AI + RAG applications, production-grade LLM integration |
+| ↓ | |
+| **Future** | Backend Engineer — systems at scale |
+
+</div>
+
+<br/>
+
+## 🎯&nbsp; CURRENT FOCUS
+
+<div align="center">
+
+![Backend Systems](https://img.shields.io/badge/Production%20Backend%20Systems-0F0F1A?style=for-the-badge&logoColor=00F0FF)
+![Distributed](https://img.shields.io/badge/Distributed%20Systems-0F0F1A?style=for-the-badge&logoColor=B24BF3)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-0F0F1A?style=for-the-badge&logo=spring-boot&logoColor=6DB33F)
+![Node](https://img.shields.io/badge/Node.js-0F0F1A?style=for-the-badge&logo=node.js&logoColor=339933)
+![AI](https://img.shields.io/badge/AI%20Integration-0F0F1A?style=for-the-badge&logoColor=00F0FF)
+![OSS](https://img.shields.io/badge/Open%20Source-0F0F1A?style=for-the-badge&logoColor=B24BF3)
+![DSA](https://img.shields.io/badge/DSA-0F0F1A?style=for-the-badge&logoColor=00F0FF)
+![System Design](https://img.shields.io/badge/System%20Design-0F0F1A?style=for-the-badge&logoColor=B24BF3)
+
+</div>
+
+<br/>
+
+## 📫&nbsp; CONNECT
+
+<div align="center">
+
+<a href="https://portfolio-self-eight-47.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=00F0FF" /></a>
+<a href="https://linkedin.com/in/c-bhuvaneshvar-reddy-01b985279"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00F0FF" /></a>
+<a href="mailto:bhuvaneshvar.r.c@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=B24BF3" /></a>
+<a href="https://github.com/BHuvaneshvar933"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" /></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<i>Engineering reliable systems. Turning ideas into production-ready software.</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F1A,50:1A1A2E,100:0F0F1A&height=120&section=footer" width="100%"/>
+
+</div>
