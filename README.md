@@ -138,6 +138,10 @@ Event-driven workflow automation platform built from scratch. Users define multi
 
 <h2 align="center">GitHub Stats</h2> <p align="center"> <img height="180em" src="https://github-readme-stats-mu-six-25.vercel.app/api?username=BHuvaneshvar933&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="180em" src="https://github-readme-stats-mu-six-25.vercel.app/api/top-langs/?username=BHuvaneshvar933&layout=compact&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=BHuvaneshvar933&theme=tokyonight&hide_border=true&cache_seconds=86400&v=3" /> </p>
 
+<p align="center">
+  <img src="./github-metrics.svg" />
+</p>
+
 ---
 
 ## Professional Experience
