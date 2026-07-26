@@ -146,7 +146,11 @@ Event-driven workflow automation platform built from scratch. Users define multi
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=BHuvaneshvar933&theme=tokyonight&hide_border=true&cache_seconds=86400&v=3" />
 </p>
+## GitHub Metrics
 
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics">
+</p>
 
 ---
 
