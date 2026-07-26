@@ -206,7 +206,7 @@ Async distributed execution via BullMQ + Redis, VM-sandboxed custom code executi
 
 <br/>
 
-## 🛰️&nbsp; TIMELINE
+## &nbsp; TIMELINE
 
 <div align="center">
 
@@ -226,7 +226,7 @@ Async distributed execution via BullMQ + Redis, VM-sandboxed custom code executi
 
 <br/>
 
-## 🎯&nbsp; CURRENT FOCUS
+## &nbsp; CURRENT FOCUS
 
 <div align="center">
 
@@ -243,7 +243,7 @@ Async distributed execution via BullMQ + Redis, VM-sandboxed custom code executi
 
 <br/>
 
-## 📫&nbsp; CONNECT
+## &nbsp; CONNECT
 
 <div align="center">
 
