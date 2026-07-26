@@ -8,8 +8,9 @@
 
 <a href="https://portfolio-self-eight-47.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-0F0F1A?style=for-the-badge&logo=vercel&logoColor=00F0FF" /></a>
 <a href="https://linkedin.com/in/c-bhuvaneshvar-reddy-01b985279"><img src="https://img.shields.io/badge/LINKEDIN-0F0F1A?style=for-the-badge&logo=linkedin&logoColor=00F0FF" /></a>
-<a href="mailto:bhuvaneshvar.r.c@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0F0F1A?style=for-the-badge&logo=gmail&logoColor=B24BF3" /></a>
-<a href="https://github.com/BHuvaneshvar933"><img src="https://img.shields.io/badge/GITHUB-0F0F1A?style=for-the-badge&logo=github&logoColor=FFFFFF" /></a>
+<a href="mailto:bhuvaneshvar.r.c@gmail.com">
+  <img src="https://img.shields.io/badge/bhuvaneshvar.r.c%40gmail.com-0F0F1A?style=for-the-badge&logo=gmail&logoColor=B24BF3" />
+</a>
 
 </div>
 
@@ -21,50 +22,16 @@
 
 </div>
 
-## 🖥️&nbsp; SYSTEM OVERVIEW
 
-<div align="center">
+## &nbsp;ABOUT
 
-| 📍 Location | 🎓 Education | 🎯 Looking For |
-|:---:|:---:|:---:|
-| Bengaluru, India | Final Year CS · GPA 9.04 | Backend Engineer / SDE-1 |
+Backend-focused engineer specializing in building scalable systems and practical AI integration. Experienced in building full-stack applications across multiple technology stacks including **MERN, Spring Boot, and TypeScript**, with a focus on real-time architecture, database optimization, AI-powered features, and production-grade systems.
 
-| 🧠 Current Focus | 💻 Years Coding | ⚙️ Core Stack |
-|:---:|:---:|:---:|
-| AI-Integrated Backends | 3+ | Spring Boot · Node.js · TypeScript |
+My experience includes building **WebSocket-based real-time systems, RAG pipelines, workflow orchestration engines, VM-sandboxed code execution, and offline-first Progressive Web Applications (PWAs)** while emphasizing clean architecture, performance, and maintainability.
 
-</div>
+I'm a **final-year Computer Science student at Cambridge Institute of Technology (GPA: 9.04)**, actively seeking **Backend Engineer** and **SDE-1** opportunities where I can contribute to building reliable, scalable software and continue growing as a backend engineer.
 
-<br/>
-
-## 📡&nbsp; ABOUT
-
-```yaml
-name: C Bhuvaneshvar Reddy
-role: Backend Engineer — AI Integration
-location: Bengaluru, India
-
-currently_building:
-  - TenderFit — AI tender-matching platform for MSMEs (GeM + CPPP)
-
-currently_learning:
-  - Distributed systems & scalable architecture
-  - Advanced DSA (195+ problems solved)
-  - Production-grade RAG pipelines
-
-interests:
-  - Real-time systems
-  - Backend architecture
-  - Practical LLM / AI integration
-
-looking_for:
-  - Backend Engineer / SDE-1 roles
-  - Teams that value reliability and clean architecture
-```
-
-<br/>
-
-## 🧬&nbsp; TECH STACK
+## &nbsp; TECH STACK
 
 <details open>
 <summary><b>Languages</b></summary>
@@ -205,24 +172,12 @@ Async distributed execution via BullMQ + Redis, VM-sandboxed custom code executi
 [→ GitHub](https://github.com/BHuvaneshvar933/NexusFlow)
 
 </td>
-<td width="50%" valign="top">
-
-### 🔹 TenderFit
-**AI-powered government tender matching for MSMEs** *(in progress)*
-
-Supports GeM and CPPP portals from day one, dynamic company-profile matching, LLM-driven tender-fit scoring to help small businesses evaluate opportunities fast.
-
-`AI Integration` `MERN` `LLM Scoring`
-
-*Repository launching soon*
-
-</td>
 </tr>
 </table>
 
 <br/>
 
-## 📊&nbsp; GITHUB ANALYTICS
+## &nbsp; GITHUB ANALYTICS
 
 <div align="center">
 
@@ -239,7 +194,9 @@ Supports GeM and CPPP portals from day one, dynamic company-profile matching, LL
 
 <br/><br/>
 
+<!--
 <img src="https://github-profile-trophy.vercel.app/?username=BHuvaneshvar933&theme=darkhub&no-frame=true&column=4&margin-w=8&margin-h=8" />
+-->
 
 <br/>
 
