@@ -111,7 +111,7 @@ I'm a **final-year Computer Science student at Cambridge Institute of Technology
 ![Vercel](https://img.shields.io/badge/Vercel-0F0F1A?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
 ![Railway](https://img.shields.io/badge/Railway-0F0F1A?style=for-the-badge&logo=railway&logoColor=FFFFFF)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-0F0F1A?style=for-the-badge&logo=oracle&logoColor=F80000)
-![AWS S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
 ![Linux](https://img.shields.io/badge/Linux-0F0F1A?style=for-the-badge&logo=linux&logoColor=FCC624)
 
 </div>
