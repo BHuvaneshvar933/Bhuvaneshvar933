@@ -207,25 +207,6 @@ Async distributed execution via BullMQ + Redis, VM-sandboxed custom code executi
 
 <br/>
 
-## &nbsp; TIMELINE
-
-<div align="center">
-
-| Year | Milestone |
-|:---:|:---|
-| **2023** | Started programming — fundamentals, DSA basics |
-| ↓ | |
-| **2024** | Built full-stack MERN + Spring Boot projects |
-| ↓ | |
-| **2025** | Real-time systems: WebSockets, transactions, distributed workflows |
-| ↓ | |
-| **2026** | AI + RAG applications, production-grade LLM integration |
-| ↓ | |
-| **Future** | Backend Engineer — systems at scale |
-
-</div>
-
-<br/>
 
 ## &nbsp; CURRENT FOCUS
 
